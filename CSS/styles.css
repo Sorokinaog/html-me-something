@@ -1,0 +1,118 @@
+body {
+    margin-top: 20px;
+  
+}
+
+h1 {
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 50px;
+    color: rgb(68, 83, 219);
+    display: block;
+    width: 1400px;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: auto;
+    box-sizing: border-box;
+
+
+}
+
+p {
+    font-size: 20px;
+}
+
+p.Footer {
+    font-size: 14px;
+}
+
+div.Header {
+    
+    background-color: rgba(214, 201, 20, 0.1);
+    display: block;
+    margin-right: 100px;
+    margin-left: 100px;
+    padding-top: 30px;
+
+}
+div.title {
+    width: 800px;
+    padding: 50px 100px 50px 0px;
+    display: inline;
+}
+
+div.Deer {
+    width: 500px;
+    padding: 50px 0px 50px 100px;
+    display: inline;
+
+}
+h2 {
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 30px;
+    color: lightsalmon; 
+
+}
+
+h3 {
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgb(68, 83, 219)
+}
+article.Overview {
+    padding:  50px 100px;
+    background-color: rgb(179, 83, 155, 0.1); 
+    display:block;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+article.Climate {
+    padding:  50px 100px;
+    background-color: rgba(6, 192, 105, 0.1); 
+    display:block;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+article.Views {
+    padding:  50px 100px;
+    background-color: rgba(138, 124, 3, 0.1); 
+    display:block;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+article.Dining {
+    padding:  50px 100px;
+    background-color: rgba(240, 32, 42, 0.1); 
+    display:block;
+    margin-right: 100px;
+    margin-left: 100px;
+} 
+
+article.Sights {
+    padding:  50px 100px;
+    background-color: rgba(73, 5, 129, 0.1);
+    display: block;
+    margin-right: 100px;
+    margin-left: 100px;
+    
+}
+
+div.City_View {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+
+
+footer {
+    color: blue;
+    
+    display: block;
+    height: 30px;
+}
